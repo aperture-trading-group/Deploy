@@ -1,0 +1,1 @@
+Import-Module -Name VMware.VimAutomation.Core
